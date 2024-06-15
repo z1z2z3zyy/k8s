@@ -1,2 +1,2 @@
-From gcr.io/google-samples/microservices-demo/paymentservice:v0.10.0
+From gcr.io/google-samples/microservices-demo/frontend:v0.10.0
 MAINTAINER Q
