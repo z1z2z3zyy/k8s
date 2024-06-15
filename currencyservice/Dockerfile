@@ -1,2 +1,2 @@
-From gcr.io/google-samples/microservices-demo/currencyservice:v0.10.0
+From gcr.io/google-samples/microservices-demo/productcatalogservice:v0.10.0
 MAINTAINER Q
