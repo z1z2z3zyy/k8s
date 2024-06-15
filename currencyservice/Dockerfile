@@ -1,2 +1,2 @@
-From gcr.io/google-samples/microservices-demo/shippingservice:v0.10.0
+From gcr.io/google-samples/microservices-demo/cartservice:v0.10.0
 MAINTAINER Q
