@@ -524,7 +524,7 @@
           <mxGeometry width="151.72185430463574" height="41.75243393602225" as="geometry" />
         </mxCell>
         <mxCell id="ajYVIgqOjoC30KdAL2Ek-284" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;对数梅尔频谱图&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ajYVIgqOjoC30KdAL2Ek-286">
-          <mxGeometry x="23.543046357615896" y="52.73991655076494" width="111.61147902869757" height="32.962447844228095" as="geometry" />
+          <mxGeometry y="52.74" width="150" height="32.96" as="geometry" />
         </mxCell>
         <mxCell id="ajYVIgqOjoC30KdAL2Ek-282" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2×一维卷积+GELU&lt;/font&gt;&lt;/b&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ajYVIgqOjoC30KdAL2Ek-199">
           <mxGeometry y="329.62447844228103" width="172.64900662251657" height="26.369958275382473" as="geometry" />
